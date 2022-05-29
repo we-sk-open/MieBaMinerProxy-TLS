@@ -1,4 +1,4 @@
-# 屏蔽内核的小工具
+# 屏蔽内核抽水的小工具，TLS加密直连池子
 ## 使用本程序前请打开系统防火墙，不然无法屏蔽内核抽水
 ![幻灯片1](https://user-images.githubusercontent.com/100226405/165022424-abec24d7-9f21-47b8-a8c5-9805ea7bb6f2.JPG)
 ![幻灯片2](https://user-images.githubusercontent.com/100226405/164966902-c7a5cb01-2fab-49b3-a9ea-1b5edf3f2cb9.JPG)
